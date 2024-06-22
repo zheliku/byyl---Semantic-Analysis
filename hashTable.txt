@@ -1,0 +1,73 @@
+----------------------------------
+Symbol name: A
+Symbol type: STRUCT_TYPE
+Struct fields: 
+	a
+	c
+----------------------------------
+
+----------------------------------
+Symbol name: B
+Symbol type: STRUCT_TYPE
+Struct fields: 
+	b
+----------------------------------
+
+----------------------------------
+Symbol name: C
+Symbol type: STRUCT_TYPE
+Struct fields: 
+	m
+	n
+----------------------------------
+
+----------------------------------
+Symbol name: a
+Symbol type: FLOAT
+----------------------------------
+
+----------------------------------
+Symbol name: b
+Symbol type: FLOAT
+----------------------------------
+
+----------------------------------
+Symbol name: c
+Symbol type: INT
+----------------------------------
+
+----------------------------------
+Symbol name: m
+Symbol type: FLOAT
+----------------------------------
+
+----------------------------------
+Symbol name: n
+Symbol type: INT
+----------------------------------
+
+----------------------------------
+Symbol name: aa
+Symbol type: STRUCT_VAL
+Struct type: A
+----------------------------------
+
+----------------------------------
+Symbol name: bb
+Symbol type: STRUCT_VAL
+Struct type: B
+----------------------------------
+
+----------------------------------
+Symbol name: cc
+Symbol type: STRUCT_VAL
+Struct type: C
+----------------------------------
+
+----------------------------------
+Symbol name: main
+Symbol type: FUNC
+Return Type: INT
+Arguments: 
+----------------------------------
+
